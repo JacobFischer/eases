@@ -3,6 +3,7 @@
   "version": "1.0.8",
   "description": "grab bag of easing equations",
   "main": "index.js",
+  "types": "index.d.ts",
   "license": "MIT",
   "author": "Matt DesLauriers <dave.des@gmail.com>",
   "dependencies": {},
